@@ -1,6 +1,6 @@
 
 
-/*  ECE474 Lab 4
+/*  Embedded Systems Lab 4
  *  @file lab4_2_1.ino
  *  @author    Clayden Boyd, Jin Terada White
  *  @date      9-June-2021  
